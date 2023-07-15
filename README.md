@@ -14,6 +14,10 @@
     │  ├─MillisTaskManager      -- 合作式任务调度器
     │  ├─SdFat                  -- 文件系统
     │  ├─StackInfo              -- 栈空间使用统计库
+    │  ├─BMP280                 -- BMP280驱动
+    │  ├─BQ27220                -- BQ27220电量计驱动
+    │  ├─MPU6050                -- MPU6050加速度计驱动
+    │  ├─QMC6310                -- QMC6310驱动
     │  └─TinyGPSPlus            -- NMEA协议解析器
     ├─MDK-ARM_F403A             -- AT32F403A Keil工程
     ├─MDK-ARM_F435              -- AT32F435  Keil工程
