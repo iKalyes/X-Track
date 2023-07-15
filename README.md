@@ -1,4 +1,6 @@
 # X-Track固件源代码
+ ## 目录结构
+```
  X-Track
     ├─ArduinoAPI                -- 通用 Arduino API 抽象层
     ├─Doc                       -- 芯片相关文档
@@ -59,3 +61,4 @@
         │      └─WString        -- Arduino WString 字符串库
         ├─HAL                   -- 硬件抽象层
         └─lv_port               -- lvgl与硬件的接口
+```
